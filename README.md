@@ -1,1 +1,1 @@
-# screen-shots
+## Screenshots of the projects
